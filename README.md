@@ -9,7 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/alodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alodev" height="30" width="40" /></a>
 <a href="https://twitter.com/alodev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alodev_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alexander-alonzo-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander-alonzo-dev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCezbU4b1vrPMGh740ATaphQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="brayanalonzo348" height="30" width="40" /></a> 
